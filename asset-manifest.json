@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cajademusica/static/css/main.46909c48.chunk.css",
+    "main.js": "/cajademusica/static/js/main.08e53483.chunk.js",
+    "main.js.map": "/cajademusica/static/js/main.08e53483.chunk.js.map",
+    "runtime-main.js": "/cajademusica/static/js/runtime-main.29e73625.js",
+    "runtime-main.js.map": "/cajademusica/static/js/runtime-main.29e73625.js.map",
+    "static/js/2.8be09b57.chunk.js": "/cajademusica/static/js/2.8be09b57.chunk.js",
+    "static/js/2.8be09b57.chunk.js.map": "/cajademusica/static/js/2.8be09b57.chunk.js.map",
+    "index.html": "/cajademusica/index.html",
+    "static/css/main.46909c48.chunk.css.map": "/cajademusica/static/css/main.46909c48.chunk.css.map",
+    "static/js/2.8be09b57.chunk.js.LICENSE.txt": "/cajademusica/static/js/2.8be09b57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29e73625.js",
+    "static/js/2.8be09b57.chunk.js",
+    "static/css/main.46909c48.chunk.css",
+    "static/js/main.08e53483.chunk.js"
+  ]
+}

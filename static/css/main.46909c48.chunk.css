@@ -1,0 +1,2 @@
+.container{display:flex;justify-content:center}#drum-machine{margin:2px solid red;min-width:300px;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;height:auto;border:2px solid red;border-radius:10px}.btn-danger{margin:5px;width:70px;height:50px}#display{background-color:#000;width:100%;height:50px;color:#90ee90;font-size:1.5rem;display:flex;justify-content:center;border-radius:9px 9px 0 0;text-transform:capitalize}#drum-pads{display:grid;grid-template-columns:auto auto auto;grid-gap:0;margin:0 0 10px 10px}
+/*# sourceMappingURL=main.46909c48.chunk.css.map */
